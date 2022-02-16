@@ -1,4 +1,7 @@
 # brawl-assets
+IMPORTANT! Brawl Assets V2 has now been released, check that for assets!
+
+# brawl-assets
 
 Various assets for supercell's game "Brawl Stars"
 
