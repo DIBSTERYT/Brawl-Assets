@@ -1,5 +1,5 @@
 # brawl-assets
-IMPORTANT! Brawl Assets V2 has now been released, check that for assets!
+IMPORTANT! Brawl Assets V2 has now been released, check that for assets! [Click here to get redirected to the repository.](https://github.com/Statscell/Brawl-Assets-V2)
 
 # brawl-assets
 
